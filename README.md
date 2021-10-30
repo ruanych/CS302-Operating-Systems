@@ -1,5 +1,10 @@
 # CS302 Operating Systems
 
+[![language](https://img.shields.io/github/languages/top/Ryyyc/CS302-Operating-Systems?color=%23330099)]()
+[![commit activity](https://img.shields.io/github/commit-activity/m/Ryyyc/CS302-Operating-Systems)](https://github.com/Ryyyc/CS302-Operating-Systems/commits/master)
+[![code size](https://img.shields.io/github/languages/code-size/Ryyyc/CS302-Operating-Systems?color=%230099CC)]()
+[![repo size](https://img.shields.io/github/repo-size/Ryyyc/CS302-Operating-Systems?color=%23CC9900)]()
+
 ## Brief
 
 CS302 Operating Systems course practice materials in SUSTech 2021-Spring.
